@@ -12,7 +12,7 @@ st.subheader("Welcome to website Andrew Wijaya")
 st.write("SMAN 20 Bandung")
 st.image(
     "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
-    width=500,
+    width=450,
     caption="XD.Lmaoo"
 )
 
