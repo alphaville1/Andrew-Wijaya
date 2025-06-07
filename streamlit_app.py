@@ -14,7 +14,7 @@ with col2:
     st.header("Things I love?")
     st.write("I love sport like karate and learn about cybersecurity because i love it and becomes my entertainment compared to playing games, yeah maybe i've played it once.. uhm, lol.")
 
-# Add music background
-audio_file = open("https://j.top4top.io/m_3445t8myu1.mp3", "rb")
-audio_bytes = audio_file.read()
-st.audio(audio_bytes, format='audio/mp3', start_time=0)
+import streamlit as st
+
+audio_url = "https://j.top4top.io/m_3445t8myu1.mp3"
+st.audio(audio_url, format='audio/mp3', start_time=0)
