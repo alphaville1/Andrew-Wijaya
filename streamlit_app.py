@@ -27,7 +27,7 @@ with col2:
     st.header("Things I love?")
     st.write(
         "I love Mommy ofc😋 lol, I love sport like karate and learn about cybersecurity because I love it, "
-        "becomes my entertainment compared to playing games, yeah maybe I've played it once.. uhm, lol."
+        "becomes my entertainment compared to playing games, yeah maybe I've played it once.. uhm."
     )
 
 st.subheader("Play Music at here⬇️")
