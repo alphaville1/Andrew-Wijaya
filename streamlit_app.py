@@ -12,7 +12,7 @@ st.subheader("Welcome to My Websites")
 st.write("Learn coding with me😏")
 st.image(
     "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
-    width=450,
+    width=300,
     caption="XD.Lmaoo"
 )
 
