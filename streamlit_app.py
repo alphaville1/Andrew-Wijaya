@@ -11,7 +11,7 @@ st.title("Andrew Wijaya")
 st.subheader("Welcome to website Andrew Wijaya")
 st.write("SMAN 20 Bandung")
 st.image(
-    "https://i.ibb.co/1G7BShz0/IMG-20250511-WA0012.jpg",
+    "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
     width=200,
     caption="XD.Lmaoo"
 )
