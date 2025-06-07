@@ -20,11 +20,7 @@ with col1:
     st.header("About Me?")
     st.write(
         "Greetings Visitor☺️ Lemme introduce myself, my name is Andrew Wijaya 16 y.o"
-    )
-    st.write(
         "You wanna asking where I am from? I from ur heart😋 haha lmaoo." 
-    )
-    st.write( 
         "Currently I'm grade 10 studying at SMAN 20 Bandung rn."
     )
 with col2:
