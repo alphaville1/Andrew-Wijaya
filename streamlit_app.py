@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Andrew Wijaya")
-st.subheader("Selamat datang di website Andrew Wijaya")
+st.subheader("Welcome to website Andrew Wijaya")
 st.write("SMAN 20 Bandung")
 
 st.image("https://i.ibb.co/VpNWfNDn/49f9c0cb34cc.jpg", width=300, caption="XD.Lmaoo")
