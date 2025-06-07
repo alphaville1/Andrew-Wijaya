@@ -20,14 +20,18 @@ with col1:
     st.header("About Me?")
     st.write(
         "Greetings Visitor☺️ Lemme introduce myself, my name is Andrew Wijaya 16 y.o"
-        "You wanna asking where I am from? I from ur heart😋 joking lol."
+    )
+    st.write(
+        "You wanna asking where I am from? I from ur heart😋 haha lmaoo." 
+    )
+    st.write( 
         "Currently I'm grade 10 studying at SMAN 20 Bandung rn."
     )
 with col2:
     st.header("Things I love?")
     st.write(
-        "I love sport like karate and learn about cybersecurity because I love it. "
-        "It becomes my entertainment compared to playing games, yeah maybe I've played it once.. uhm, lol."
+        "I love sport like karate and learn about cybersecurity because I love it, "
+        "becomes my entertainment compared to playing games, yeah maybe I've played it once.. uhm, lol."
     )
 
 audio_url = "https://j.top4top.io/m_3445t8myu1.mp3"
