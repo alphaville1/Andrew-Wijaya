@@ -9,7 +9,7 @@ st.set_page_config(
 st.title("Welcome to My Websites")
 st.image(
     "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
-    width=300,
+    width=450,
     caption="XD.Lmaoo"
 )
 st.subheader("Andrew Wijaya")
