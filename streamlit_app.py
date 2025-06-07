@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Andrew Wijaya")
+st.title("Welcome to My Websites")
 
 st.subheader("Andrew Wijaya")
 st.write("Learn coding with me🤓")
