@@ -4,7 +4,7 @@ st.title("Andrew Wijaya")
 st.subheader("Welcome to website Andrew Wijaya")
 st.write("SMAN 20 Bandung")
 
-st.image("https://i.ibb.co/VpNWfNDn/49f9c0cb34cc.jpg", width=300, caption="XD.Lmaoo")
+st.image("https://i.ibb.co/0STQbRr/7149e6635fef.jpg", width=300, caption="XD.Lmaoo")
 
 col1, col2 = st.columns(2)
 with col1:
