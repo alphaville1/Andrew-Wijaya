@@ -1,14 +1,14 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Andrew Wijaya",
+    page_title="Welcome to My Websites",
     page_icon="🧑‍💻",
     layout="wide"
 )
 
 st.title("Andrew Wijaya")
 
-st.subheader("Welcome to My Websites")
+st.subheader("Andrew Wijaya")
 st.write("Learn coding with me🤓")
 st.image(
     "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
