@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Andrew Wijaya",
-    page_icon="👦",
+    page_icon="https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
     layout="wide"
 )
 
@@ -11,7 +11,7 @@ st.title("Andrew Wijaya")
 st.subheader("Welcome to website Andrew Wijaya")
 st.write("SMAN 20 Bandung")
 st.image(
-    "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
+    "https://i.ibb.co/HTBRJ1hK/IMG-20250511-WA0012.jpg",
     width=200,
     caption="XD.Lmaoo"
 )
