@@ -7,14 +7,13 @@ st.set_page_config(
 )
 
 st.title("Welcome to My Websites")
-
-st.subheader("Andrew Wijaya")
-st.write("Learn coding with me🤓")
 st.image(
     "https://1.bp.blogspot.com/-lygs2wtQzgk/Ufk2tlT_cOI/AAAAAAAAAGU/duIUyTw3Ues/s1600/troll_face8.png",
     width=300,
     caption="XD.Lmaoo"
 )
+st.subheader("Andrew Wijaya")
+st.write("Learn coding with me🤓")
 
 col1, col2 = st.columns(2)
 with col1:
