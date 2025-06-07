@@ -8,7 +8,7 @@ st.image("https://ibb.co/1G7BShz0", width=200, caption="XD.Lmaoo")
 
 col1, col2 = st.columns(2)
 with col1:
-    st.header("About Andrew Wijaya")
+    st.header("About Me?")
     st.write("Greetings Visitor☺️ Lemme introduce myself, my name is Andrew Wijaya currently I am grade 10 studying at SMAN 20 Bandung rn.")
 with col2:
     st.header("Things I love?")
